@@ -6,7 +6,7 @@ root_dir="$(dirname "$script_dir")"
 
 p2pool \
     --host 127.0.0.1 \
-    --wallet 49j7AMxXgkBVioejSyBkxBXQSfDDVB9U71vqimeaLrDRBeaK5jc3NH5RNBHTgKSofeGWuCqRRUZTDbRcctVswNXEKSwszEN \
+    --wallet 46oRAif4QSGM2TbGHYnDevi92QyCWtGELZEeyWpDjCin6QEeUAVBdZp54rZ5QDSe3egNxs22ipFqWSbBweesmg3DPj9bKfB \
     --data-api "$root_dir/data/p2pool" \
     --local-api \
     --no-color \
